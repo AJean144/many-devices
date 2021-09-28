@@ -3,7 +3,7 @@
 Clone the repo by running
 
 ```bash
-$ git clone [repo_here]
+$ git clone https://github.com/AJean144/many-devices.git
 ```
 
 ## Installation:
