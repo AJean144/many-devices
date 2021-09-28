@@ -11,7 +11,7 @@ $ git clone https://github.com/AJean144/many-devices.git
 Once cloned, run
 
 ```bash
-$ npm install or yarn
+$ npm install or yarn install
 ```
 
 ## Run
